@@ -47,7 +47,6 @@ A full-stack web application built using **Spring Boot, Spring Security, and JWT
 
 ### 🔹 1. Clone the Repository
 
-```bash
 git clone https://github.com/YOUR_USERNAME/service-booking-system.git
 cd service-booking-system
 spring.datasource.url=jdbc:mysql://localhost:3306/service_db
